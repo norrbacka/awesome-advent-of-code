@@ -219,7 +219,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C++.*
 
-* [arkadye/adventofcode2022](https://github.com/arkadye/adventofcode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--06--11-brightgreen)
+* [arkadye/adventofcode2022](https://github.com/arkadye/adventofcode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--06--24-brightgreen)
 
 #### Clojure
 
